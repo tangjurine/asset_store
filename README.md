@@ -1,4 +1,4 @@
-####Here is my implemenation of the asset store:
+Here is my implemenation of the asset store:
 
 To run: 
    - go to the root directory
